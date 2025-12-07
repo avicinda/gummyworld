@@ -2,6 +2,6 @@
 title: My GitHub Pages Notebook!
 ---
 
-Hello world!
+Hello gummies.
 
-Write some words here!
+
